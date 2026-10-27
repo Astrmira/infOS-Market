@@ -1,0 +1,11 @@
+# 本地编辑器配置
+.idea/
+.vscode/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 本地临时资料
+/TEMP/
+*.log
